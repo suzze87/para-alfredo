@@ -1,5 +1,4 @@
-# Español
-
+ 
 # Funciones del Script
 
 El script cuenta con las siguientes opciones. 
@@ -16,30 +15,8 @@ El script cuenta con las siguientes opciones.
 
 ![enter image description here](https://i.ibb.co/yYdWNZq/1.jpg)
 ![enter image description here](https://i.ibb.co/02zmH21/2.jpg)
-![enter image description here](https://github.com/HirCoir/Google-Cloud-MiniTool/raw/main/Images/Ubuntu-Desktop.gif)
+![enter image description here](https://github.com/suzze87/para-alfredo/blob/main/Google-Cloud-Shell-LinuxOs/Images/Ubuntu-Desktop.gif)
 
 # Uso del Script
 
-    ls /home/ && wget https://raw.githubusercontent.com/HirCoir/Google-Cloud-MiniTool/main/Docker.sh && chmod 777 Docker.sh && bash Docker.sh
-
-
-# English
-
-# Script functions
-
-The script has the following options.
-**1**. Create Ubuntu containers with the environments:
-**XFCE**
-**KDE**
-**Mate**
-**Openbox**
-**IceWM**.
-
-**2**. Install **Portainer** (Requires Ngrok token to bridge since access from google cloud doesnt allow login).
-
-*3*. Start Apache Guacamole on **Port 8080** (Use Docker).
-
-
-# Script Usage
-
-    ls /home/ && wget https://raw.githubusercontent.com/HirCoir/Google-Cloud-MiniTool/main/Docker.sh && chmod 777 Docker.sh && bash Docker.sh
+    ls /home/ && wget https://raw.githubusercontent.com/HirCoir/Google-Cloud-MiniTool/main/Docker.sh && chmod 777 Docker.sh && bash Docker.sh 
